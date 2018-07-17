@@ -1,0 +1,15 @@
+très|2
+pas vraiment|.4
+vraiment très|3
+super|2
+giga|5
+ultra|8
+un peu|.5
+intensément|3
+on ne peut plus|4
+incroyablement|5
+pas du tout|.1
+un tout petit peu|.2
+légèrement|.6
+vite fait|.8
+pas tant que ça|.7

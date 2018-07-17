@@ -1,0 +1,12 @@
+de cuir.DEFENSE=3.CUIR..+10
+de cuir bouilli.DEFENSE=5.CUIR..+15
+en fulmicoton.RESISTANCE_FEU%=-100.INSTABLE..+60
+en bois.RESISTANCE_TERRE%=50|RESISTANCE_FEU%=-50.NATURE..+5
+de fer.DEFENSE=10.METAL..+20
+d'acier.DEFENSE=15.METAL..+30
+en soie.DEFENSE=-3|CHARISME=5.TISSU..+40
+en lin..TISSU..+10
+de paille.DEFENSE=-5|CHARISME=-2...+0
+de merde.CHARISME=-10.CACA.Schlingue.-50
+en éponge.RESISTANCE_EAU%=150|DEGAT=-10.EAU..-10
+en carton.DEFENSE=-10|CHARISME=-10.../2

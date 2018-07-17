@@ -1,0 +1,23 @@
+M.arc.arcs.DEGATS=10.A_DISTANCE|DEUX_MAINS|ARME..+10
+M.bouclier.boucliers.DEFENSE=5|BLOQUAGE%=25.UNE_MAIN|DEFENSIF..+10
+F.armure.armures.DEFENSE=10.ARMURE|DEFENSIF..+25
+F.épée.épées.DEGAT=8.MELEE|UNE_MAIN|ARME..+15
+F.zweihander.zweihanders.DEGAT=15.MELEE|DEUX_MAINS|ARME..+35
+M.casque.casque.DEFENSE=2.ARMURE|DEFENSIF..+10
+M.tuba.tubas.RESISTANCE_EAU%=10.EAU..+5
+M.harpon.harpons.DEGAT=6|PORTEE=10.EAU|ARME|DEUX_MAINS..+15
+F.lance.lances.DEGAT=8|PORTEE=10.ARME|DEUX_MAINS..+10
+F.robe.robes.CHARISME=10.HABIT..+60
+F.fléchette.fléchettes.DEXTERITE=2|DEGAT=1.ARME|A_DISTANCE|UNE_MAIN..+5
+F.sarbacane.sarbacanes.DEGAT=3|POISON=2.ARME|A_DISTANCE|UNE_MAIN..+5
+M.couteau de lancer.couteaux de lancer.DEGAT=4.ARME|A_DISTANCE|UNE_MAIN.Inflige saignement.+5
+M.couteau à beurre.couteaux à beurre.DEGAT=1.ARME|MELEE|UNE_MAIN..+5
+M.masque.masques.CHARISME=5.HABIT..+10
+F.salopette.salopettes.FORCE=2.HABIT..+5
+M.bavoir.bavoirs.CHARISME=-10.HABIT.Protège des tâches.+15
+F.bretelle.bretelles.CHARISME=-2|VITESSE=2.VIEUX|HABIT..+10
+F.ceinture.ceintures..ARMURE|HABIT..+10
+M.sceptre.sceptres.INTELLIGENCE=5.ARME|UNE_MAIN|MELEE..+20
+F.masse.masses.FORCE=5.ARME|UNE_MAIN|MELEE.20% de chances d'étourdir.+20
+F.hache.haches.FORCE=3.ARME|UNE_MAIN|MELEE..+10
+M.cimeterre.cimeterres.DEXTERITE=5.ARME|UNE_MAIN|MELEE.Inflige saignement.+25

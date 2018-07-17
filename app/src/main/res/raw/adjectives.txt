@@ -1,0 +1,26 @@
+B.grand.grands.grande.grandes.DEGAT=5...+20
+B.petit.petits.petite.petites.DEGAT=-5...-5
+A.géant.géants.géante.géantes.DEGAT=10..20% de chance d'assomer.+25
+A.mou.mous.molle.molles.DEGAT=-5..Ne peux rien trancher.-10
+A.putride.putrides.putride.putrides.POISON=10.POISON..+15
+A.sexy.sexy.sexy.sexy.PRIX%=100.SEXY..*2
+B.vilain.vilains.vilaine.vilaines.PRIX%=-50.MOCHE../2
+A.moche.moches.moche.moches.PRIX%=-30.MOCHE../3
+A.œcuménique.œcuméniques.œcuménique.œcuméniques...Utilisable par tout le monde.+20
+A.divin.divins.divine.divines.DEGAT_DIVIN=30.DIVIN..+50
+A.démoniaque.démoniaques.démoniaque.démoniaques.DEGAT_FEU=30.DEMONIAQUE..+30
+A.tranquille.tranquilles.tranquille.tranquilles.DEGAT=-2..Soigne en dehors des combats.+10
+A.débile.débiles.débile.débiles.INTELLIGENCE=-5.MENTAL..-10
+A.stupide.stupides.stupide.stupides.INTELLIGENCE=-3.MENTAL..-5
+A.génial.géniaux.géniale.géniales.INTELLIGENCE=5.MENTAL..+5
+B.super.supers.super.supers.PRIX%=20|DEGAT=2...+5
+B.immense.immenses.immense.immenses.VITESSE=-30|DEGAT=30..Nécessite au moins 30 de FORCE.+5
+A.mouillé.mouillés.mouillée.mouillées.RESISTANCE_EAU%=20|RESISTANCE_FOUDRE%=-80.EAU..+10
+A.sec.secs.sèche.sèches.RESISTANCE_EAU%=-20|DEGAT_FEU=5...+10
+A.salé.salés.salée.salées...Donne soif.+0
+A.magique.magiques.magique.magiques.DEGAT_MAGIQUE=10|INTELLIGENCE=2...+15
+A.sage.sages.sage.sages.SAGESSE=5...+15
+B.ancien.anciens.ancienne.anciennes.SAGESSE=20|DEGAT=-20.VIEUX..+30
+B.vieux.vieux.vieille.vieilles.DEGAT=-10|PRIX%=-50.VIEUX.50% chance de casser./2
+A.pointu.pointus.pointue.pointues.DEGAT=5..Ignore l'armure.+20
+A.carré.carrés.carrée.carrées.INTELLIGENCE=4|DEGAT=-4.FORME..+10
